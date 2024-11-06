@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie Database</string>
+    <string name="language">es-ES</string>
+    <string name="return_to_main">Volver</string>
+    <string name="nointernet">No hay internet</string>
+    <string name="errorunexpected">Algo inesperado ocurrio</string>
+    <string name="nocontent">Error al obtener el contenido</string>
+    <string name="genresprefix">Género: %1$s</string>
+    <string name="averagetext">Puntuación: %1$s</string>
+    <string name="refresh">Refrezcar</string>
+</resources>

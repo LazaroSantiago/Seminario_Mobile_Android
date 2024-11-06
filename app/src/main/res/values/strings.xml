@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Movie Database</string>
+    <string name="language">en-US</string>
+    <string name="return_to_main">Return</string>
+    <string name="nointernet">No internet</string>
+    <string name="errorunexpected">Something unexpected happened</string>
+    <string name="nocontent">Failed to fetch</string>
+    <string name="genresprefix">Genre: %1$s</string>
+    <string name="averagetext">Score: %1$s</string>
+    <string name="refresh">Refresh</string>
+</resources>
